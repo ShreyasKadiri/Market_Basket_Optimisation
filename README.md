@@ -1,1 +1,1 @@
-# Market_Basket_Optimisation
+Optimise the sales of a store using Apriori(Market Basket Optimisation)
